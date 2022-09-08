@@ -5,6 +5,10 @@
     "repository": {
         "url": "https://github.com/fosslife/delta"
     },
+    "engines" : { 
+    "npm" : ">=7.0.0",
+    "node" : ">=16.0.0"
+  },
     "main": "index.js",
     "license": "MIT",
     "scripts": {
